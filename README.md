@@ -2,7 +2,6 @@
 A basic Paint copy using C.
 
 type in:
-
 h - help
 q - quit
 w [row_start] [col_start] [row_end] [col_end] - to draw a line from (row_start,col_start) to (row_end,col_end)
